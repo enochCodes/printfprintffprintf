@@ -1,2 +1,2 @@
-# C-printf
+# printf
 project with kasahun ayalaw
