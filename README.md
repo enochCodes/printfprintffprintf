@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x11. C - printf
 ================
 
@@ -213,3 +214,8 @@ Create a man page for your function.
 
 -   GitHub repository: `printf`
 -   File: `man_3_printf`
+=======
+# printf
+The first Group Project by
+Henok Samson & Kassahun Ayalew 
+>>>>>>> origin/kassahun
